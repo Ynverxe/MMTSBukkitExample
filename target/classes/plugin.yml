@@ -1,0 +1,3 @@
+name: MMTSBukkitExample
+version: 1.0
+main: com.github.fleexter.mmtsbukkitexample.MMTSBukkitExamplePlugin

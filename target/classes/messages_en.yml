@@ -1,0 +1,8 @@
+text-message: '&aHi! This message is send to you using MMTS :)'
+title-message:
+  title: '&bSincerely: &eFleexter'
+  subTitle: '&aI hope you are having a beautiful day'
+  fadeIn: 20
+  stay: 20
+  fadeOut: 20
+action-bar-message: '&cExample Text'
